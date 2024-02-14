@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "goprobruv1"
+name = "goprobruv"
 version = "0.1.0"
 description = ""
 authors = ["Nick Mortimer <nick.mortimer@csiro.au>"]
